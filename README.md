@@ -1,4 +1,9 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# MyBike landing page
+  Here is implemented a landing page. The landing is about bike shop where customer can watch variables of bikes and order a consultation.
+  The page supports all devices and it is looks good in any type of screen resolution.
+  Also, it has smooth user interaction.
+  Used technologies: HTML5, CSS3, Saas, BEM.
+
+  Landing figma design: [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
+
+  Link to the implemented project: [DEMO LINK](https://kryvets-vadym.github.io/layout_miami/)
